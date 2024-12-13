@@ -12,7 +12,8 @@ This is a Python-based tool designed to enumerate subdomains using the SecurityT
 - Create Account on https://securitytrails.com/ after login go https://securitytrails.com/app/account/credentials
 - Python 3.x
 - An active **SecurityTrails API Key**
-
+## Change API token in 25 Line 
+ ![Tool Screenshot](image.png)
 ## Installation
 1. Clone the repository:
    ```bash
