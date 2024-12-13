@@ -9,6 +9,7 @@ This is a Python-based tool designed to enumerate subdomains using the SecurityT
 - **Customizable**: You can modify the script to include additional features or integrate it with other tools.
 
 ## Requirements
+- Create Account on https://securitytrails.com/ after login go https://securitytrails.com/app/account/credentials
 - Python 3.x
 - An active **SecurityTrails API Key**
 
